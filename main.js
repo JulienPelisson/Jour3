@@ -6,6 +6,6 @@ function popUp(){
 		if(true){
 			window.location.href =" https://www.youtube.com/watch?v=dQw4w9WgXcQ ";
 		}else{
-			window.location.href =""
+			window.location.href ="https://julienthp.github.io/Jour3/"
 		}
 	}
